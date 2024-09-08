@@ -1,4 +1,4 @@
-# Machine Learning Tutorials - Part 1
+# Machine Learning Tutorials - Part 1: Python Basic, Numpy, Pandas
 
 Welcome to **Machine Learning Tutorials - Part 1**, a beginner-friendly guide to machine learning using **Python**, **NumPy**, and **Pandas**. This tutorial series covers foundational concepts and practical coding exercises to get you started on your machine learning journey.
 
